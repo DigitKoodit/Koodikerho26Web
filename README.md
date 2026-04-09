@@ -196,6 +196,7 @@ Muokkaa projektia vapaasti, esimerkiksi:
 - Kokeile eri CSS-tyylejä (värit, fontit, taustat).
 - Tee oma komponentti ja käytä sitä `App.jsx`:ssä.
 - Kokeile `useState`-hookkia jonkin interaktiivisen elementin kanssa.
+- Voit myös kokeilla minkälaista frontend koodia tekoäly tuottaa.
  
 Kun olet tyytyväinen, pushaa muutokset omaan forkkiisi:
  
